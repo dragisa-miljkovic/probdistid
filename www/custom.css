@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  color: black; /* Change the color to your desired text color */
+  background-color: white; /* Change the background color to your desired color */
+}
+
+.word-wrap {
+  word-wrap: break-word;
+}
+

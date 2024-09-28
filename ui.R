@@ -7,7 +7,7 @@ fluidPage(
            checkboxInput(
              inputId = "themeToggle",
              label = HTML(paste0(icon("sun"), " / ", icon("moon")))
-           ))
+           )) 
   )),
   theme = shinytheme("flatly"),
   
